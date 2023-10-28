@@ -1,0 +1,54 @@
+.achive{
+    position: absolute;
+    top: 140em;
+    left: 40em;
+
+}
+
+/* .image-container {
+    position: relative;
+    overflow: hidden;
+} */
+
+
+
+.box {
+    width: 35em; /* Taking half of container's width */
+    height: 13em; /* Adjust as per requirement */
+    border: 2px solid black;
+   
+    
+}
+
+
+.left {
+    position: relative;
+    left: 10em;
+}
+.right{
+    position: relative;
+    right: 35em;
+}
+
+
+.right {
+    display: flex;
+    align-items: start;
+    justify-content:start;
+}
+
+.img-achive{
+    width: 9em;
+    height:13em;
+}
+.para-achive{
+    position: relative;
+    top: 50px;
+    right: 100px;
+
+}
+.left {
+    display: flex;
+    align-items: start;
+    justify-content:start;
+}
